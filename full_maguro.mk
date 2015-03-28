@@ -35,5 +35,6 @@ $(call inherit-product, device/samsung/maguro/device.mk)
 PRODUCT_NAME := full_maguro
 PRODUCT_DEVICE := maguro
 PRODUCT_BRAND := Android
-PRODUCT_MODEL := AOSP on Maguro
+PRODUCT_MANUFACTURER := Samsung
+PRODUCT_MODEL := Galaxy Nexus
 PRODUCT_RESTRICT_VENDOR_FILES := true
